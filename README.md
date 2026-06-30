@@ -25,3 +25,8 @@ I started with no prior knowledge of Excel and learned through practice, problem
 - Using formulas to retrieve and analyze data
 - Creating interactive dashboards
 - Presenting data in a clear and visual way
+
+
+# My First Excel Dashboard
+
+![Dashboard Preview](Dashboard.png)
